@@ -70,7 +70,7 @@ def generate_summary(input_text):
 def home():
     return render_template("index.html")
 
-
+# this  is testing for git 
 # 📡 API
 @app.route('/summarize', methods=['POST'])
 def summarize():
