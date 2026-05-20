@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    background: linear-gradient(120deg, #2980b9, #6dd5fa);
+}
+
+.container {
+    width: 60%;
+    margin: 50px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+textarea {
+    width: 100%;
+    height: 120px;
+    padding: 10px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px;
+    background: #2980b9;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.output {
+    margin-top: 20px;
+}
